@@ -1,0 +1,6 @@
+{
+  "name": "Asistente de Investigación: Abasto Alimentario Quintana Roo",
+  "description": "Herramienta de apoyo para el registro paso a paso de notas de campo etnográficas sobre cadenas de abasto alimentario en Cozumel, Isla Mujeres y Holbox.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
