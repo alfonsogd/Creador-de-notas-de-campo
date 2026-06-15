@@ -99,11 +99,11 @@ export default function App() {
         timestamp: new Date().toLocaleTimeString('es-MX', { hour: '2-digit', minute: '2-digit' }),
         options: [
           { label: 'Dr. Alfonso González Damián', value: 'Dr. Alfonso González Damián', actionString: 'Dr. Alfonso González Damián' },
-          { label: 'Ashley Junuen', value: 'Ashley Junuen', actionString: 'Ashley Junuen' },
-          { label: 'Karol Naomi', value: 'Karol Naomi', actionString: 'Karol Naomi' },
-          { label: 'Laura Valeria', value: 'Laura Valeria', actionString: 'Laura Valeria' },
-          { label: 'Luis Mario', value: 'Luis Mario', actionString: 'Luis Mario' },
-          { label: 'Victoria Alexa', value: 'Victoria Alexa', actionString: 'Victoria Alexa' }
+          { label: 'Pilar', value: 'Pilar', actionString: 'Pilar' },
+          { label: 'Yuly', value: 'Yuly', actionString: 'Yuly' },
+          { label: 'Alison', value: 'Alison', actionString: 'Alison' },
+          { label: 'Antonio', value: 'Antonio', actionString: 'Antonio' },
+          { label: 'Karol', value: 'Karol', actionString: 'Karol' }
         ]
       }
     ];
